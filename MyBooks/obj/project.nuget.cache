@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvSkR3DUxtFeXme+6FyMLJ33STiGnl44ojY25FA2O0dCePR5i98aAIaeKkqlvqkSVUAUntwskZtCr9MgQ8pjAg==",
+  "success": true,
+  "projectFilePath": "E:\\Taki_Uddin\\Training\\ASP.NET\\MyBooks\\MyBooks\\MyBooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andriod\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\andriod\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\andriod\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\andriod\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\andriod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\andriod\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
